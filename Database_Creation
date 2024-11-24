@@ -1,5 +1,4 @@
-I am creating a Data Base which holds tables of information.
-DROP IF EXSITS `University`;
+DROP DATABASE IF EXSITS `University`;
 CREATE DATABASE `University`;
 USE `University`;
 

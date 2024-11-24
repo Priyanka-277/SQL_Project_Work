@@ -1,5 +1,5 @@
 I am creating a Data Base which holds tables of information.
-DROP IF EXSITS 'University';
-CREATE DATABASE 'University';
-USE 'University';
+DROP IF EXSITS `University`;
+CREATE DATABASE `University`;
+USE `University`;
 
